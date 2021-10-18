@@ -4,7 +4,7 @@ My name is Tim Grein and I'm currently working as a Full Stack development train
 
 ### 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/tim-grein/) 
-- [personal portfolio](https://tim-grein.io)
+- [Personal Portfolio](https://tim-grein.io)
 
 <!--
 **TimG1997/TimG1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
