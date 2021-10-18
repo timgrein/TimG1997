@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently working as a Full Stack development trainer at my own company teaching Java, Spring Boot, Angular and Docker! Also, I'm enrolled in a M.Sc. in Computer Science and second B.Sc. in Medical Computer Science. I'm very interested in Full Stack Development and automated Quality Assurance.
+
+### 📫 How to reach me?
+- [LinkedIn](https://www.linkedin.com/in/tim-grein/) 
+- [personal portfolio](https://tim-grein.io)
+
 <!--
 **TimG1997/TimG1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
